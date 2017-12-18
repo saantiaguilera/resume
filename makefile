@@ -1,2 +1,2 @@
 all:
-  pandoc ./in/resume.tex -o ./out/Santiago-Aguilera-Resume.pdf
+	/Library/TeX/texbin/pdflatex -output-directory ./out/ ./in/Santiago-Aguilera-Resume.tex
