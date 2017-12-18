@@ -1,2 +1,2 @@
 all:
-  pandoc ./in/resume.tex -o ./out/resume.pdf
+  pandoc ./in/resume.tex -o ./out/Santiago-Aguilera-Resume.pdf
